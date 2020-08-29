@@ -1,5 +1,7 @@
-<h1>Eli Ethridge Home Page</h1> 
-<p> 
-  Does this work? 
-  </p>
-  
+<h1>YOUR NAME - home page</h1> 
+<p>
+ This is my first web page
+</p> 
+<p>
+ WOW, it works!
+</p>
