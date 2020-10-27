@@ -20,7 +20,7 @@ article {
 }
 
 aside {
-    background-color: 009999;
+    background-color: #009999;
     text-align: center;
     font-size: 30px;
     font-family: cursive;
@@ -83,10 +83,10 @@ li {
 }
 
 body {
-    color: 000000;
+    color: #000000;
 }
 
 h1 {
-    color: e6ffff;
+    color: #e6ffff;
     text-align: center;
     background-color: gray;
